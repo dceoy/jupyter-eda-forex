@@ -1,3 +1,3 @@
-[submodule "forex-dataset"]
-	path = forex-dataset
-	url = git@github.com:dceoy/forex-dataset.git
+[submodule "forex-sample-dataset"]
+	path = forex-sample-dataset
+	url = git@github.com:dceoy/forex-sample-dataset.git
